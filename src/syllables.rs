@@ -1,4 +1,4 @@
-pub static SYLLABLES: [&str; 331] = [
+pub static SYLLABLES: [&str; 330] = [
     "ac", "act", "ad", "af", "ag", "age", "air", "al", "als", "am", "an", "ap", "ar", "as", "at",
     "ate", "au", "ba", "bat", "be", "ber", "bers", "bet", "bi", "ble", "bles", "bod", "bor",
     "bout", "but", "by", "ca", "cal", "can", "cap", "car", "cat", "cate", "cen", "cent", "char",
@@ -23,5 +23,5 @@ pub static SYLLABLES: [&str; 331] = [
     "ti", "tic", "ties", "tin", "ting", "tion", "tions", "tive", "tle", "to", "tom", "ton", "tor",
     "tors", "tra", "tract", "tray", "tri", "tro", "try", "tu", "ture", "tures", "tween", "ty",
     "uer", "um", "un", "up", "ure", "us", "va", "val", "var", "vel", "ven", "ver", "vi", "vid",
-    "vis", "wa", "ward", "way", "west", "where", "wil", "win", "won", "work", "writ", "",
+    "vis", "wa", "ward", "way", "west", "where", "wil", "win", "won", "work", "writ",
 ];
